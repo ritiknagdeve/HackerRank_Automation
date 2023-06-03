@@ -1,2 +1,2 @@
 # HackerRank_Automation
-NodeJS script to Automate HackerRank Code Submission using Puppeteer(Nodejs library).
+Automation of HackerRank Code Submission using Puppeteer(Nodejs library).
